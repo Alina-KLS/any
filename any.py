@@ -1,2 +1,3 @@
-print("hello world")
+x = inpur('как вас зовут?')
+print(а"hello,", x)
 
