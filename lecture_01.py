@@ -1,6 +1,4 @@
-from math import sqrt
-from math import cos
-from math import radians
+from math import sqrt, cos, radians
 a = int(input("Введите длину первой стороны: "))
 b = int(input("Введите длину второй стороны: "))
 x = int(input("Введите величину угла в градусах: "))
